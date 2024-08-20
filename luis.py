@@ -1,1 +1,2 @@
-print("XD")
+print("Hello Word")
+print("Luis es negro")
